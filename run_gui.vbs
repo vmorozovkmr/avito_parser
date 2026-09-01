@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "venv\Scripts\pythonw.exe avito_gui.py", 0, False

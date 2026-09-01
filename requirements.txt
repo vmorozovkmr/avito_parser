@@ -1,0 +1,8 @@
+selenium==4.25.0
+gspread==6.1.2
+customtkinter==5.2.2
+python-dotenv==1.0.1
+undetected-chromedriver==3.5.5
+webdriver-manager==4.0.2
+pandas==2.2.2
+openpyxl==3.1.5

@@ -1,0 +1,13 @@
+{
+  "URLS": "https://www.avito.ru/kemerovo/telefony/mobile-ASgBAgICAUSwwQ2I_Dc?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6InkiO3M6MTY6InVZeXlscGJ2ZGQxektrT1EiO32KHkK-JgAAAA&f=ASgBAQICAUSwwQ2I_DcBQOjrDjT~_dsC_P3bAvr92wI&localPriority=1&s=104&user=1",
+  "MAX_PRICE": "15000",
+  "MAX_PAGES": "5",
+  "MAX_DAYS_AGE": "1",
+  "WHITELIST_WORDS": "",
+  "BLACKLIST_SELLERS": "",
+  "BLACKLIST_WORDS": "",
+  "TARGET_SHEET_NAME": "Телефоны",
+  "INFINITE_LOOP": true,
+  "LOOP_INTERVAL_MIN": "30",
+  "NEW_SHEET": true
+}

@@ -1,0 +1,13 @@
+{
+  "URLS": "https://www.avito.ru/kemerovo/audio_i_video/televizory_i_proektory/televizory-ASgBAgICAkSIArgJ0sENkLA5?context=H4sIAAAAAAAA_wEmANn_YToxOntzOjE6InkiO3M6MTY6Ilh4WGRFeFpyOE0yWjc5MVkiO318HcwgJgAAAA&f=ASgBAgICA0SIArgJ6rwN_NE00sENkLA5&localPriority=1&s=104&user=1",
+  "MAX_PRICE": "12000",
+  "MAX_PAGES": "10",
+  "MAX_DAYS_AGE": "10",
+  "WHITELIST_WORDS": "",
+  "BLACKLIST_SELLERS": "",
+  "BLACKLIST_WORDS": "разбит\nремонт\nзапчасти\nНеисправность\nБитая\nПолоса\nПолосы\nПолоска\nДетали\nПоврежден",
+  "TARGET_SHEET_NAME": "Телевизоры",
+  "INFINITE_LOOP": true,
+  "LOOP_INTERVAL_MIN": "3",
+  "NEW_SHEET": true
+}
